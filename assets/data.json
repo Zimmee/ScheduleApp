@@ -1,0 +1,614 @@
+{
+   "1":{
+      "route":"Тернопіль Ав — Мельниця Подільська",
+      "time":"06:39",
+      "throughVil":false,
+      "listIdx":1
+   },
+   "2":{
+      "route":"Тернопіль Ав — Чортків",
+      "time":"07:05",
+      "throughVil":false,
+      "listIdx":2
+   },
+   "3":{
+      "route":"Тернопіль Ав — Чернівці",
+      "time":"07:20",
+      "throughVil":false,
+      "listIdx":3
+   },
+   "4":{
+      "route":"Тернопіль Ав — Борщів",
+      "time":"07:45",
+      "throughVil":false,
+      "listIdx":4
+   },
+   "5":{
+      "route":"Тернопіль Ав — Кошилівці",
+      "time":"07:50",
+      "throughVil":false,
+      "listIdx":5
+   },
+   "6":{
+      "route":"Тернопіль Ав — Більче-Золоте",
+      "time":"08:25",
+      "throughVil":false,
+      "listIdx":6
+   },
+   "7":{
+      "route":"Варшава — Борщів",
+      "time":"08:30",
+      "throughVil":false,
+      "listIdx":7
+   },
+   "8":{
+      "route":"Тернопіль Ав — Чортків",
+      "time":"08:40",
+      "throughVil":false,
+      "listIdx":8
+   },
+   "9":{
+      "route":"Вроцлав — Чернівці Вест Буковина",
+      "time":"08:45",
+      "throughVil":false,
+      "listIdx":9
+   },
+   "10":{
+      "route":"Єлена Гура — Теребовля",
+      "time":"09:00",
+      "throughVil":false,
+      "listIdx":10
+   },
+   "11":{
+      "route":"Тернопіль Ав — Чернівці",
+      "time":"09:15",
+      "throughVil":false,
+      "listIdx":11
+   },
+   "12":{
+      "route":"Тернопіль Ав — Чортків",
+      "time":"09:25",
+      "throughVil":false,
+      "listIdx":12
+   },
+   "13":{
+      "route":"Кам.Подільський — Львів",
+      "time":"09:30",
+      "throughVil":false,
+      "listIdx":13
+   },
+   "14":{
+      "route":"Заліщики — Львів",
+      "time":"09:35",
+      "throughVil":false,
+      "listIdx":14
+   },
+   "15":{
+      "route":"Кам.Подільський — Львів",
+      "time":"09:30",
+      "throughVil":false,
+      "listIdx":15
+   },
+   "16":{
+      "route":"Тернопіль Ав — Борщів",
+      "time":"09:45",
+      "throughVil":false,
+      "listIdx":16
+   },
+   "17":{
+      "route":"Тернопіль Ав — Чортків",
+      "time":"09:45",
+      "throughVil":false,
+      "listIdx":17
+   },
+   "18":{
+      "route":"Коломия — Тернопіль",
+      "time":"09:55",
+      "throughVil":false,
+      "listIdx":18
+   },
+   "19":{
+      "route":"Хеб — Чернівці",
+      "time":"10:15",
+      "throughVil":false,
+      "listIdx":19
+   },
+   "20":{
+      "route":"Тернопіль Ав — Чортків",
+      "time":"10:20",
+      "throughVil":false,
+      "listIdx":20
+   },
+   "21":{
+      "route":"Тернопіль Ав — Целіїв",
+      "time":"10:25",
+      "throughVil":false,
+      "listIdx":21
+   },
+   "22":{
+      "route":"Чортків — Львів",
+      "time":"10:25",
+      "throughVil":false,
+      "listIdx":22
+   },
+   "23":{
+      "route":"Кременець — Чернівці Ас-4",
+      "time":"10:35",
+      "throughVil":false,
+      "listIdx":23
+   },
+   "24":{
+      "route":"Чернівці — Рівне",
+      "time":"10:40",
+      "throughVil":false,
+      "listIdx":24
+   },
+   "25":{
+      "route":"Тернопіль Ав — Копичинці",
+      "time":"10:42",
+      "throughVil":false,
+      "listIdx":25
+   },
+   "26":{
+      "route":"Тернопіль Ав — Чортків",
+      "time":"10:45",
+      "throughVil":false,
+      "listIdx":26
+   },
+   "27":{
+      "route":"Херсон — Бонн",
+      "time":"11:10",
+      "throughVil":false,
+      "listIdx":27
+   },
+   "28":{
+      "route":"Херсон — Херне",
+      "time":"11:10",
+      "throughVil":false,
+      "listIdx":28
+   },
+   "29":{
+      "route":"Херсон — Кьольн",
+      "time":"11:10",
+      "throughVil":false,
+      "listIdx":29
+   },
+   "30":{
+      "route":"Тернопіль Ав — Заліщики",
+      "time":"11:20",
+      "throughVil":false,
+      "listIdx":30
+   },
+   "31":{
+      "route":"Чернівці — Почаїв",
+      "time":"11:25",
+      "throughVil":false,
+      "listIdx":31
+   },
+   "32":{
+      "route":"Тернопіль Ав — Окопи",
+      "time":"11:30",
+      "throughVil":false,
+      "listIdx":32
+   },
+   "33":{
+      "route":"Тернопіль Ав — Чортків",
+      "time":"12:00",
+      "throughVil":false,
+      "listIdx":33
+   },
+   "34":{
+      "route":"Тернопіль Ав — Чортків",
+      "time":"12:15",
+      "throughVil":false,
+      "listIdx":34
+   },
+   "35":{
+      "route":"Тернопіль Ав — Городенка",
+      "time":"12:15",
+      "throughVil":false,
+      "listIdx":35
+   },
+   "36":{
+      "route":"Тернопіль Ав — Сков’ятин",
+      "time":"12:25",
+      "throughVil":false,
+      "listIdx":36
+   },
+   "37":{
+      "route":"Рівне — Чернівці",
+      "time":"12:30",
+      "throughVil":false,
+      "listIdx":37
+   },
+   "38":{
+      "route":"Тернопіль Ав — Заліщики",
+      "time":"12:48",
+      "throughVil":false,
+      "listIdx":38
+   },
+   "39":{
+      "route":"Тернопіль Ав — Борщів",
+      "time":"13:10",
+      "throughVil":false,
+      "listIdx":39
+   },
+   "40":{
+      "route":"Кам.Подільський — Львів",
+      "time":"13:05",
+      "throughVil":false,
+      "listIdx":40
+   },
+   "41":{
+      "route":"Почаїв — Чернівці",
+      "time":"13:20",
+      "throughVil":false,
+      "listIdx":41
+   },
+   "42":{
+      "route":"Тернопіль Ав — Заліщики",
+      "time":"13:37",
+      "throughVil":false,
+      "listIdx":42
+   },
+   "43":{
+      "route":"Тернопіль Ав — Підгайці",
+      "time":"13:35",
+      "throughVil":false,
+      "listIdx":43
+   },
+   "44":{
+      "route":"Тернопіль Ав — Гусятин",
+      "time":"13:45",
+      "throughVil":false,
+      "listIdx":44
+   },
+   "45":{
+      "route":"Чернівці — Рівне",
+      "time":"13:50",
+      "throughVil":false,
+      "listIdx":45
+   },
+   "46":{
+      "route":"Тернопіль Ав — Чортків",
+      "time":"13:50",
+      "throughVil":false,
+      "listIdx":46
+   },
+   "47":{
+      "route":"Тернопіль Ав — Вербівка/Борщ/",
+      "time":"13:45",
+      "throughVil":false,
+      "listIdx":47
+   },
+   "48":{
+      "route":"Тернопіль Ав — Мельниця Подільська",
+      "time":"14:05",
+      "throughVil":false,
+      "listIdx":48
+   },
+   "49":{
+      "route":"Чернівці — Хеб",
+      "time":"14:05",
+      "throughVil":false,
+      "listIdx":49
+   },
+   "50":{
+      "route":"Тернопіль Ав — Городенка",
+      "time":"14:10",
+      "throughVil":false,
+      "listIdx":50
+   },
+   "51":{
+      "route":"Тернопіль Ав — Чортків",
+      "time":"14:10",
+      "throughVil":false,
+      "listIdx":51
+   },
+   "52":{
+      "route":"Тернопіль Ав — Слобідка/Зал/",
+      "time":"14:15",
+      "throughVil":false,
+      "listIdx":52
+   },
+   "53":{
+      "route":"Тернопіль Ав — Старий Нижбірок",
+      "time":"14:24",
+      "throughVil":false,
+      "listIdx":53
+   },
+   "54":{
+      "route":"Львів — Кам‘янець Подільський",
+      "time":"14:20",
+      "throughVil":false,
+      "listIdx":54
+   },
+   "55":{
+      "route":"Львів — Кам.Подільський",
+      "time":"14:20",
+      "throughVil":false,
+      "listIdx":55
+   },
+   "56":{
+      "route":"Тернопіль Ав — Литячі",
+      "time":"14:31",
+      "throughVil":false,
+      "listIdx":56
+   },
+   "57":{
+      "route":"Теребовля — Єлена Гура",
+      "time":"14:40",
+      "throughVil":false,
+      "listIdx":57
+   },
+   "58":{
+      "route":"Тернопіль Ав — Більче-Золоте",
+      "time":"14:40",
+      "throughVil":false,
+      "listIdx":58
+   },
+   "59":{
+      "route":"Тернопіль Ав — Бережанка/Борщ/",
+      "time":"14:45",
+      "throughVil":false,
+      "listIdx":59
+   },
+   "60":{
+      "route":"Тернопіль Ав — Коломия",
+      "time":"15:00",
+      "throughVil":false,
+      "listIdx":60
+   },
+   "61":{
+      "route":"Чернівці — Тернопіль",
+      "time":"15:10",
+      "throughVil":false,
+      "listIdx":61
+   },
+   "62":{
+      "route":"Тернопіль Ав — Чортків",
+      "time":"15:10",
+      "throughVil":false,
+      "listIdx":62
+   },
+   "63":{
+      "route":"Тернопіль Ав — Устечко",
+      "time":"15:20",
+      "throughVil":false,
+      "listIdx":63
+   },
+   "64":{
+      "route":"Тернопіль Ав — Чортків",
+      "time":"15:32",
+      "throughVil":false,
+      "listIdx":64
+   },
+   "65":{
+      "route":"Тернопіль Ав — Горошова",
+      "time":"15:30",
+      "throughVil":false,
+      "listIdx":65
+   },
+   "66":{
+      "route":"Тернопіль Ав — Коцюбинці",
+      "time":"15:42",
+      "throughVil":false,
+      "listIdx":66
+   },
+   "67":{
+      "route":"Почаїв — Гусятин",
+      "time":"15:44",
+      "throughVil":false,
+      "listIdx":67
+   },
+   "68":{
+      "route":"Рівне — Чернівці",
+      "time":"15:40",
+      "throughVil":false,
+      "listIdx":68
+   },
+   "69":{
+      "route":"Тернопіль Ав — Окопи",
+      "time":"15:57",
+      "throughVil":false,
+      "listIdx":69
+   },
+   "70":{
+      "route":"Тернопіль Ав — Чортків",
+      "time":"16:05",
+      "throughVil":false,
+      "listIdx":70
+   },
+   "71":{
+      "route":"Чернівці Вест Буковина — Вроцлав",
+      "time":"16:10",
+      "throughVil":false,
+      "listIdx":71
+   },
+   "72":{
+      "route":"Тернопіль Ав — Снятин",
+      "time":"16:20",
+      "throughVil":false,
+      "listIdx":72
+   },
+   "73":{
+      "route":"Тернопіль Ав — Чортків",
+      "time":"16:29",
+      "throughVil":false,
+      "listIdx":73
+   },
+   "74":{
+      "route":"Тернопіль Ав — Борщів",
+      "time":"16:25",
+      "throughVil":false,
+      "listIdx":74
+   },
+   "75":{
+      "route":"Тернопіль Ав — Городенка",
+      "time":"16:30",
+      "throughVil":false,
+      "listIdx":75
+   },
+   "76":{
+      "route":"Тернопіль Ав — Кошилівці",
+      "time":"16:40",
+      "throughVil":false,
+      "listIdx":76
+   },
+   "77":{
+      "route":"Тернопіль Ав — Целіїв",
+      "time":"16:55",
+      "throughVil":false,
+      "listIdx":77
+   },
+   "78":{
+      "route":"Тернопіль Ав — Нівра",
+      "time":"17:00",
+      "throughVil":false,
+      "listIdx":78
+   },
+   "79":{
+      "route":"Чернівці — Львів",
+      "time":"17:00",
+      "throughVil":false,
+      "listIdx":79
+   },
+   "80":{
+      "route":"Тернопіль Ав — Кудринці",
+      "time":"17:09",
+      "throughVil":false,
+      "listIdx":80
+   },
+   "81":{
+      "route":"Львів — Чернівці",
+      "time":"17:10",
+      "throughVil":false,
+      "listIdx":81
+   },
+   "82":{
+      "route":"Коломия — Тернопіль",
+      "time":"17:32",
+      "throughVil":false,
+      "listIdx":82
+   },
+   "83":{
+      "route":"Тернопіль Ав — Білий Потік",
+      "time":"17:35",
+      "throughVil":false,
+      "listIdx":83
+   },
+   "84":{
+      "route":"Тернопіль Ав — Мельниця Подільська",
+      "time":"17:40",
+      "throughVil":false,
+      "listIdx":84
+   },
+   "85":{
+      "route":"Тернопіль Ав — Коломия",
+      "time":"17:50",
+      "throughVil":false,
+      "listIdx":85
+   },
+   "86":{
+      "route":"Кам.Подільський — Вроцлав",
+      "time":"17:45",
+      "throughVil":false,
+      "listIdx":86
+   },
+   "87":{
+      "route":"Чернівці — Тернопіль",
+      "time":"18:05",
+      "throughVil":false,
+      "listIdx":87
+   },
+   "88":{
+      "route":"Тернопіль Ав — Чортків",
+      "time":"18:10",
+      "throughVil":false,
+      "listIdx":88
+   },
+   "89":{
+      "route":"Борщів — Варшава",
+      "time":"18:35",
+      "throughVil":false,
+      "listIdx":89
+   },
+   "90":{
+      "route":"Львів — Заліщики",
+      "time":"18:55",
+      "throughVil":false,
+      "listIdx":90
+   },
+   "91":{
+      "route":"Тернопіль Ав — Чортків",
+      "time":"19:20",
+      "throughVil":false,
+      "listIdx":91
+   },
+   "92":{
+      "route":"Львів — Кам.Подільський",
+      "time":"19:25",
+      "throughVil":false,
+      "listIdx":92
+   },
+   "93":{
+      "route":"Львів — Кам‘янець Подільський",
+      "time":"19:25",
+      "throughVil":false,
+      "listIdx":93
+   },
+   "94":{
+      "route":"Тернопіль Ав — Мельниця Подільська",
+      "time":"19:30",
+      "throughVil":false,
+      "listIdx":94
+   },
+   "95":{
+      "route":"Тернопіль Ав — Теребовля",
+      "time":"19:35",
+      "throughVil":false,
+      "listIdx":95
+   },
+   "96":{
+      "route":"Тернопіль Ав — Чортків",
+      "time":"19:45",
+      "throughVil":false,
+      "listIdx":96
+   },
+   "97":{
+      "route":"Тернопіль Ав — Михайлівка/Борщ/",
+      "time":"20:00",
+      "throughVil":false,
+      "listIdx":97
+   },
+   "98":{
+      "route":"Тернопіль Ав — Теребовля",
+      "time":"20:20",
+      "throughVil":false,
+      "listIdx":98
+   },
+   "99":{
+      "route":"Львів — Чортків",
+      "time":"20:20",
+      "throughVil":false,
+      "listIdx":99
+   },
+   "100":{
+      "route":"Тернопіль Ав — Теребовля",
+      "time":"20:40",
+      "throughVil":false,
+      "listIdx":100
+   },
+   "101":{
+      "route":"Львів — Чортків",
+      "time":"20:55",
+      "throughVil":false,
+      "listIdx":101
+   },
+   "102":{
+      "route":"Чернівці Ас-4 — Кременець",
+      "time":"21:00",
+      "throughVil":false,
+      "listIdx":102
+   }
+}
